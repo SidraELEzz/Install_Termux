@@ -19,7 +19,7 @@ $ ls && cd Termux install && ls
 
 ## Usage :
 ```
-$ python2 Sidra Tools.py
+$ python2 SidraTools.py
  
 $Tool key :
 
