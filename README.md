@@ -1,4 +1,4 @@
-<h1 align="center">Termux-install</h1>
+<h1 align="center">Install_Termux</h1>
 <p align="center">Install all basic Termux commands with the push of a button</p>
 
 
@@ -9,7 +9,7 @@
 using in the Termux ↓↓
 
 $apt update && apt upgrade
-$ git clone https://github.com/SidraELEzz/Termux-install
+$ git clone https://github.com/SidraELEzz/Install_Termux
 ```
 
 ## Tools Run :
